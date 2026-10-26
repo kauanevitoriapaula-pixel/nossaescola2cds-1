@@ -69,7 +69,7 @@ img.sociais {
 /* Estudantes */
 .estudante {
   padding: 24px 0;
-  background-color: #27702aee;
+  background-color: #f3f5f3fe;
 }
 
 .estudante_titulo {
@@ -114,7 +114,7 @@ img.sociais {
   padding: 24px 0;
   color: #ffffff;
   text-align: center;
-  background-image: linear-gradient(#40a2e3, #7fc2ef);
+  background-image: linear-gradient(#febfd7, #fcceee);
 }
 
 .escola-título {
